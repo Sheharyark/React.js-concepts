@@ -1,0 +1,18 @@
+.searchForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.searchForm__input {
+  margin-top: 2rem;
+  border: 0;
+  z-index: 1;
+  background-color: rgb(197, 248, 251);
+  border-bottom: 2px solid #eee;
+  font: inherit;
+  font-size: 1.125rem;
+  padding: 0.25rem 0;
+  width: 50%;
+}

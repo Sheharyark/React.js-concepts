@@ -1,0 +1,18 @@
+.tableData {
+  margin-top: 2rem;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-collapse: collapse;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  background-color: rgb(226, 239, 235);
+}
+
+th,
+td {
+  border: 1px solid black;
+  align-items: center;
+  padding: 2px;
+}
